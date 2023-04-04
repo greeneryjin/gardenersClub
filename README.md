@@ -34,14 +34,19 @@
 - S3
 - Querydsl
 - jpa
+- jwt
 
 
 배포
 - git action
 
 
+인프라
+- docker 
+
+
 모니터링 
--grafana
+- grafana
 
 
 라이브러리
@@ -51,7 +56,11 @@
 
 
 Swaager api
+- api 총 개수는 60개입니다. 
+
+
 ERD
+- 테이블의 총 개수는 40개입니다. 
 
 
 활용한 데이터 
@@ -59,7 +68,6 @@ ERD
 - 농사로 Open api(실내 정원용 식물)
 - 동사무소 Open api(동사무소 행정 주소)
  
-
 
 완성된 Web Design
 
