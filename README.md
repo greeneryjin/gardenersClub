@@ -41,11 +41,12 @@
 - git action
 
 
-인프라
+서버 환경 
 - docker 
 
 
 모니터링 
+- prometheus
 - grafana
 
 
