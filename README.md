@@ -46,7 +46,8 @@
 ```
 - git action
 - aws codeDeploy
-```![Untitled (1)](https://github.com/greeneryjin/gardenersClub/assets/87289562/b86c353a-6e6f-40b3-a3e8-2934a2177e12)
+```
+![Untitled (1)](https://github.com/greeneryjin/gardenersClub/assets/87289562/39b3c60e-c393-4f81-b86c-1819a91cc559)
 
 
 
