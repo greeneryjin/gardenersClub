@@ -46,10 +46,8 @@
 ```
 - git action
 - aws codeDeploy
-```
-![출처: AWS](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1f75778b-f8ed-4eb4-a2c3-641c214323c0/Untitled.png)
+```![Untitled (1)](https://github.com/greeneryjin/gardenersClub/assets/87289562/b86c353a-6e6f-40b3-a3e8-2934a2177e12)
 
-출처: AWS
 
 
 인프라 환경 
