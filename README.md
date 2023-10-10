@@ -48,7 +48,7 @@
 - aws codeDeploy
 ```
 <div align="center">
-  ![Untitled (1)](https://github.com/greeneryjin/gardenersClub/assets/87289562/39b3c60e-c393-4f81-b86c-1819a91cc559)
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/39b3c60e-c393-4f81-b86c-1819a91cc559" width="20%" height="30%">
 </div>
 
 
