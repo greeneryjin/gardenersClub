@@ -51,6 +51,7 @@
 
 * * *
 
+
 인프라 환경 
 ```
 - aws vpc
@@ -61,6 +62,9 @@
 - CM
 - ec2
 ```
+<div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/9889ea83-1a97-42a5-a977-2ed2d2e6fed7"> </div>
+
+* * *
 
 
 라이브러리
