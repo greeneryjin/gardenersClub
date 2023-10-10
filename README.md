@@ -47,9 +47,8 @@
 - git action
 - aws codeDeploy
 ```
-<div align="center">
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/39b3c60e-c393-4f81-b86c-1819a91cc559">
-</div>
+<div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/39b3c60e-c393-4f81-b86c-1819a91cc559"> </div>
+
 * * *
 
 인프라 환경 
