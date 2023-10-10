@@ -29,7 +29,7 @@
 
 사용 기술
 ```
-- spring-boot
+- springboot
 - Mysql
 - S3
 - Querydsl
@@ -38,6 +38,7 @@
 - docker
 - nginx
 - AWS
+- git action
 ```
 
 
