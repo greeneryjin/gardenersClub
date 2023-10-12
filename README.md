@@ -100,6 +100,7 @@ ERD
   <img alt="가드너스클럽 사진" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/a91b399c-bc13-4d38-8722-95f78bc261e4" align="center" width="33%">
   <img alt="KakaoTalk_20231010_120628782" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/33d19971-9331-4ef6-80eb-0b569c5e97c8" align="center" width="33%">
 </p>
+
 <br/>
 
 
@@ -112,6 +113,7 @@ ERD
   <img alt="KakaoTalk_20231010_121835304" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/13099f03-f371-4eb4-8b1f-7766dfaca21d" align="center" width="33%">
   <img alt="KakaoTalk_20231010_121844221" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/434b0b39-9fe6-43c6-9fad-6651b9ba778b" align="center" width="33%">
 </p>
+
 <br/> 
 
   * 사진
@@ -154,6 +156,7 @@ ERD
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/3809aca4-5d6f-44d4-b13d-86f065eb4b39" align="center" width="33%" width="200" height="200">
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
 </p>
+
 <br/> 
 
   2. 로그인 화면 $\rightarrow$ 기존 가입자 로그인 $\rightarrow$ 웹사이트 리다이렉트 화면 
