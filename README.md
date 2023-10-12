@@ -36,14 +36,13 @@
   * 도메인(개발/운영) 기준으로 구성
     + www.gardenersclub.co.kr
     + dev.gardenersclub.co.kr
-<p align="center">
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25" width="48%" align='left'>
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/11cd3156-e0cf-4012-b3bd-7a911f5a729f" width="48%" alt="KakaoTalk_20231010_121902047" align='right'>
-</p>
+   
+<div align="center"> 
+   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25" width="48%">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/11cd3156-e0cf-4012-b3bd-7a911f5a729f" width="48%">
+</div>
 
-* * *       
-
-
+---
 배포
 ```
 - git action
@@ -154,8 +153,8 @@ ERD
 
   2. 로그인 화면 $\rightarrow$ 기존 가입자 로그인 $\rightarrow$ 웹사이트 리다이렉트 화면 
 <p align="center">
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7a1dcd0f-89bd-4a13-93c5-f78ed7baced8" width="48%" align='left'>
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" width="48%" alt="KakaoTalk_20231010_121902047" align='right'>
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7a1dcd0f-89bd-4a13-93c5-f78ed7baced8" width="48%">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" width="48%" alt="KakaoTalk_20231010_121902047">
 </p>
 
 * * *
