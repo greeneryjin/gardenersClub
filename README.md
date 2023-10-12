@@ -22,16 +22,26 @@
 - AWS
 - git action
 ```
+
+라이브러리
+```
+- react 
+- lombok
+- gradle
+- Swgger
+```
 <br/> 
 
 서버 구성
   * 도메인(개발/운영) 기준으로 구성
-    - www.gardenersclub.co.kr
-    - dev.gardenersclub.co.kr
-  
-![image.jpg1](https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25) |![image.jpg2](https://github.com/greeneryjin/gardenersClub/assets/87289562/11cd3156-e0cf-4012-b3bd-7a911f5a729f)
---- | --- | 
-* * *
+    + www.gardenersclub.co.kr
+    + dev.gardenersclub.co.kr
+<p align="center">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25" width="48%" align='left'>
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/11cd3156-e0cf-4012-b3bd-7a911f5a729f" width="48%" alt="KakaoTalk_20231010_121902047" align='right'>
+</p>
+
+* * *       
 
 
 배포
@@ -57,16 +67,6 @@
 <div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/9889ea83-1a97-42a5-a977-2ed2d2e6fed7"> </div>
 
 * * *
-
-
-라이브러리
-```
-- react 
-- lombok
-- gradle
-- Swgger
-```
-
 
 Swaager api
 - api 총 개수는 20개입니다.
@@ -150,15 +150,16 @@ ERD
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/3809aca4-5d6f-44d4-b13d-86f065eb4b39" align="center" width="33%" width="200" height="200">
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
 </p>
-
+<br/> 
 
   2. 로그인 화면 $\rightarrow$ 기존 가입자 로그인 $\rightarrow$ 웹사이트 리다이렉트 화면 
 <p align="center">
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7a1dcd0f-89bd-4a13-93c5-f78ed7baced8" align="center" width="40%">
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" align="center" width="40%" alt="KakaoTalk_20231010_121902047" >
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7a1dcd0f-89bd-4a13-93c5-f78ed7baced8" width="48%" align='left'>
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" width="48%" alt="KakaoTalk_20231010_121902047" align='right'>
 </p>
 
 * * *
+
 
 
 
