@@ -60,7 +60,7 @@
 - gradle
 - Swgger
 ```
-<div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/9889ea83-1a97-42a5-a977-2ed2d2e6fed7"> </div>
+<div align="center"> <img width="1280" alt="스웨거" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/a34dbdfb-12f0-410d-a39f-778b1cabe315"> </div>
 
 * * *
 
