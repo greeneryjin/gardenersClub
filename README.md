@@ -60,9 +60,6 @@
 - gradle
 - Swgger
 ```
-<div align="center"> <img width="1280" alt="스웨거" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/a34dbdfb-12f0-410d-a39f-778b1cabe315"> </div>
-
-* * *
 
 도메인(개발/운영)
 - dev.gardenersclub.co.kr
@@ -70,8 +67,11 @@
 
 
 Swaager api
-- api 총 개수는 20개입니다. 
+- api 총 개수는 20개입니다.
 
+<div align="center"> <img width="1280" alt="스웨거" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/a34dbdfb-12f0-410d-a39f-778b1cabe315"> </div>
+
+* * *
 
 ERD
 - 테이블의 총 개수는 20개입니다. 
@@ -84,17 +84,34 @@ ERD
 
 웹사이트 기능
 1. 커뮤니티 
-- 팔로잉
 - 식물사전
-- 식물 사전 리뷰 
-* * *
+- 식물 사전 리뷰
 
+<p align="center">
+  <img src="" align="center" width="33%">
+  <img src="" align="center" width="33%" width="200" height="200">
+  <img src="" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
+</p>
+<p align="center">
+  <img src="" align="center" width="33%">
+  <img src="" align="center" width="33%" width="200" height="200">
+  <img src="" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
+</p>
+
+* * *
 
 2. 마이페이지
 - 회원 수정
 - 좋아요
 - 스크랩
 
+  <p align="center">
+  <img src="" align="center" width="33%">
+  <img src="" align="center" width="33%" width="200" height="200">
+  <img src="" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
+</p>
+
+* * *
 
 3. 로그인
 - 네이버 
