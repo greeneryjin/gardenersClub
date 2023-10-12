@@ -5,7 +5,6 @@
 사용 언어
 ```
 - JAVA 11
-- react 
 ```
 
 
@@ -56,11 +55,14 @@
 
 라이브러리
 ```
+- react 
 - lombok
 - gradle
-- Swgger 
+- Swgger
 ```
+<div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/9889ea83-1a97-42a5-a977-2ed2d2e6fed7"> </div>
 
+* * *
 
 도메인(개발/운영)
 - dev.gardenersclub.co.kr
@@ -68,7 +70,7 @@
 
 
 Swaager api
-- api 총 개수는 15개입니다. 
+- api 총 개수는 20개입니다. 
 
 
 ERD
@@ -98,11 +100,18 @@ ERD
 - 네이버 
 - 카카오
 
-로그인 화면 $\rightarrow$ 신규 가입자 화면 $\rightarrow$ 신규 가입/기존 가입자 로그인 완료 $\rightarrow$ 웹사이트 리다이렉트 화면 
+로그인 순서도
+  1. 로그인 화면 $\rightarrow$ 신규 가입자 화면 $\rightarrow$ 신규 가입 로그인 완료 $\rightarrow$ 웹사이트 리다이렉트 화면
 <p align="center">
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7a1dcd0f-89bd-4a13-93c5-f78ed7baced8" align="center" width="33%">
-  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/3809aca4-5d6f-44d4-b13d-86f065eb4b39" align="center" width="33%">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/3809aca4-5d6f-44d4-b13d-86f065eb4b39" align="center" width="33%" width="200" height="200">
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
+</p>
+
+  2. 로그인 화면 $\rightarrow$ 기존 가입자 로그인 $\rightarrow$ 웹사이트 리다이렉트 화면 
+<p align="center">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7a1dcd0f-89bd-4a13-93c5-f78ed7baced8" align="center" width="40%">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" align="center" width="40%" alt="KakaoTalk_20231010_121902047" >
 </p>
 
 * * *
