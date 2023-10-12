@@ -1,4 +1,4 @@
-# gardenersClub
+# [gardenersClub](https://www.notion.so/cea50616f805494b9018a1494b43b282?p=b8e48c9e89eb430d81f9ba0fad42a1dd&pm=c)
 식물에 대한 정보를 얻거나 자신이 키우는 식물을 공유하며 소통할 수 있는 식물 커뮤니티 플랫폼입니다. 
 
 
@@ -20,7 +20,7 @@
 - nginx
 - git action
 - AWS codeDeploy
-- AWS router53
+- AWS route53
 - AWS alb
 - AWS cloudfront
 - AWS Mysql
