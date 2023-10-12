@@ -1,5 +1,5 @@
 # gardenersClub
-식물 관리 기능을 제공하고 식물 집사님들과 식물팁을 공유하며 소통할 수 있는 식물 관리 & 커뮤니티 플랫폼입니다. 
+식물에 대한 정보를 얻거나 자신이 키우는 식물을 공유하며 소통할 수 있는 식물 커뮤니티 플랫폼입니다. 
 
 
 사용 언어
@@ -12,15 +12,19 @@
 사용 기술
 ```
 - springboot
-- Mysql
-- S3
+- spring security
 - Querydsl
 - jpa
 - jwt
 - docker
 - nginx
-- AWS
 - git action
+- AWS codeDeploy
+- AWS router53
+- AWS alb
+- AWS cloudfront
+- AWS Mysql
+- AWS S3
 ```
 
 라이브러리
@@ -46,6 +50,7 @@
 배포
 ```
 - git action
+- s3
 - aws codeDeploy
 ```
 <div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/39b3c60e-c393-4f81-b86c-1819a91cc559"> </div>
