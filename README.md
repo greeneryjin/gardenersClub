@@ -84,14 +84,19 @@ ERD
 
 웹사이트 기능
 1. 커뮤니티 
-- 식물사전
-- 식물 사전 리뷰
+- 식물사전 전체 조회 페이지
+- 특정 식물 조회 페이지
+- 식물 사전 리뷰 작성 페이지
 
 <p align="center">
-  <img src="" align="center" width="33%">
-  <img src="" align="center" width="33%" width="200" height="200">
-  <img src="" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
+  <img alt="KakaoTalk_20231010_120429019" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7d150468-c7ea-45ce-ad82-3c3f1d729522" align="center" width="33%">
+  <img alt="가드너스클럽 사진" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/a91b399c-bc13-4d38-8722-95f78bc261e4" align="center" width="33%">
+  <img alt="KakaoTalk_20231010_120628782" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/33d19971-9331-4ef6-80eb-0b569c5e97c8" align="center" width="33%">
 </p>
+
+- 최신순 리뷰
+- 인기순 리뷰 
+- 내가 작성한 리뷰
 <p align="center">
   <img src="" align="center" width="33%">
   <img src="" align="center" width="33%" width="200" height="200">
@@ -124,6 +129,7 @@ ERD
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/3809aca4-5d6f-44d4-b13d-86f065eb4b39" align="center" width="33%" width="200" height="200">
   <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/d0854d64-d6ff-4404-8356-e32b85964e4a" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
 </p>
+
 
   2. 로그인 화면 $\rightarrow$ 기존 가입자 로그인 $\rightarrow$ 웹사이트 리다이렉트 화면 
 <p align="center">
