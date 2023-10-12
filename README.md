@@ -37,7 +37,7 @@
 <br/> 
 
 서버 구성
-  * 도메인(개발/운영) 기준으로 구성
+  * 도메인(개발/운영) 기준으로 구성(현재 서비스 종료)
     + www.gardenersclub.co.kr
     + dev.gardenersclub.co.kr
    
