@@ -85,8 +85,6 @@ ERD
 - 팔로잉
 - 식물사전
 - 식물 사전 리뷰 
-![image.jpg1]() |![image.jpg2]() |![image.jpg3]()
---- | --- | --- |
 * * *
 
 
@@ -101,11 +99,13 @@ ERD
 - 카카오
 
 로그인 전 화면
-
 신규 가입자 화면
-
 기존 가입자 웹사이트 리다이렉트 화면 
-![image.jpg1]() |![image.jpg2]() |![image.jpg3]()
---- | --- | --- |
+<p align="center">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7a1dcd0f-89bd-4a13-93c5-f78ed7baced8" align="center" width="33%">
+  <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/3809aca4-5d6f-44d4-b13d-86f065eb4b39" align="center" width="33%">
+  <img src="https://github.com/greeneryjin/codingtest/assets/87289562/ac350e67-6eb2-4a20-b22c-94ff176e12d6" align="center" width="33%">
+  <figcaption align="center">3개 이미지 띄우기</figcaption>
+</p>
 * * *
 
