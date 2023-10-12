@@ -83,41 +83,59 @@ ERD
 - 동사무소 Open api(동사무소 행정 주소)
 
 웹사이트 기능
-1. 커뮤니티 
-- 식물사전 전체 조회 페이지
-- 특정 식물 조회 페이지
-- 식물 사전 리뷰 작성 페이지
+1. 커뮤니티
+   * 식물사전
+      - 식물사전 전체 조회
+      - 특정 식물 조회
+      - 식물 사전 리뷰 작성
 
 <p align="center">
   <img alt="KakaoTalk_20231010_120429019" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/7d150468-c7ea-45ce-ad82-3c3f1d729522" align="center" width="33%">
   <img alt="가드너스클럽 사진" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/a91b399c-bc13-4d38-8722-95f78bc261e4" align="center" width="33%">
   <img alt="KakaoTalk_20231010_120628782" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/33d19971-9331-4ef6-80eb-0b569c5e97c8" align="center" width="33%">
 </p>
-<br/> 
+<br/>
 
-- 최신순 리뷰
-- 인기순 리뷰 
-- 내가 작성한 리뷰
+
+   - 식물사전 리뷰 
+       * 최신순 리뷰
+       * 인기순 리뷰 
+       * 내가 작성한 리뷰
 <p align="center">
   <img alt="KakaoTalk_20231010_121850224" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/fd623b6e-709d-4d11-aa09-0093acd57d9f" align="center" width="33%">
   <img alt="KakaoTalk_20231010_121835304" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/13099f03-f371-4eb4-8b1f-7766dfaca21d" align="center" width="33%">
   <img alt="KakaoTalk_20231010_121844221" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/434b0b39-9fe6-43c6-9fad-6651b9ba778b" align="center" width="33%">
 </p>
+<br/> 
 
-* * *
-
-2. 마이페이지
-- 회원 수정
-- 좋아요
-- 스크랩
-
-  <p align="center">
-  <img src="" align="center" width="33%">
-  <img src="" align="center" width="33%" width="200" height="200">
-  <img src="" align="center" width="33%" alt="KakaoTalk_20231010_121902047" >
+  * 사진
+    - 사진 전체 조회
+    - 특정 사진 조회
+    - 사진 저장
+   
+<p align="center">
+  <img alt="7" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/01bfe4fe-0871-41c4-adc5-a3ddda2cdf29" align="center" width="33%">
+  <img alt="3" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/8bae42ca-502a-470b-bf49-796549e96081" align="center" width="33%">
+  <img alt="15" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/fdffe102-5b53-4d27-955a-1bea72d41bc5" align="center" width="33%">
 </p>
 
 * * *
+
+
+
+2. 마이페이지
+- 나의 피드
+- 스크랩 북
+- 회원 수정
+
+<p align="center">
+  <img alt="11" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/033f6614-7d2b-4095-bcf9-2b7f2c0605c0" align="center" width="33%">
+  <img alt="13" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/e598b521-6a44-4dee-99ff-4ea85fef3b75" align="center" width="33%">
+  <img alt="14" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/9d4396d8-471f-482c-b81f-e36b3490c519" align="center" width="33%">
+</p>
+
+* * *
+
 
 3. 로그인
 - 네이버 
