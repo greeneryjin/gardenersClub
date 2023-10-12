@@ -5,6 +5,7 @@
 사용 언어
 ```
 - JAVA 11
+- js
 ```
 
 
@@ -21,8 +22,13 @@
 - AWS
 - git action
 ```
+<br/> 
 
-서버 구성(운영도메인, 개발도메인)
+서버 구성
+  * 도메인(개발/운영) 기준으로 구성
+    - www.gardenersclub.co.kr
+    - dev.gardenersclub.co.kr
+  
 ![image.jpg1](https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25) |![image.jpg2](https://github.com/greeneryjin/gardenersClub/assets/87289562/11cd3156-e0cf-4012-b3bd-7a911f5a729f)
 --- | --- | 
 * * *
@@ -60,10 +66,6 @@
 - gradle
 - Swgger
 ```
-
-도메인(개발/운영)
-- dev.gardenersclub.co.kr
-- www.gardenersclub.co.kr
 
 
 Swaager api
