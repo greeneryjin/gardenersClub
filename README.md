@@ -41,14 +41,11 @@
 - git action
 ```
 
-서버 구성(운영, 개발)
-<div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25"> </div>
-<div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/11cd3156-e0cf-4012-b3bd-7a911f5a729f"> </div>
-
-* * *
-
+서버 구성(운영도메인, 개발도메인)
 ![image.jpg1](https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25) |![image.jpg2](https://github.com/greeneryjin/gardenersClub/assets/87289562/11cd3156-e0cf-4012-b3bd-7a911f5a729f)
 --- | --- | 
+* * *
+
 
 배포
 ```
