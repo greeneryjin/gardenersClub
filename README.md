@@ -124,9 +124,9 @@ ERD
 
 
 2. 마이페이지
-- 나의 피드
-- 스크랩 북
-- 회원 수정
+  - 나의 피드
+  - 스크랩 북
+  - 회원 수정
 
 <p align="center">
   <img alt="11" src="https://github.com/greeneryjin/gardenersClub/assets/87289562/033f6614-7d2b-4095-bcf9-2b7f2c0605c0" align="center" width="33%">
@@ -138,8 +138,8 @@ ERD
 
 
 3. 로그인
-- 네이버 
-- 카카오
+  - 네이버 
+  - 카카오
 
 로그인 순서도
   1. 로그인 화면 $\rightarrow$ 신규 가입자 화면 $\rightarrow$ 신규 가입 로그인 완료 $\rightarrow$ 웹사이트 리다이렉트 화면
