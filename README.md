@@ -1,10 +1,10 @@
 # [gardenersClub](https://www.notion.so/cea50616f805494b9018a1494b43b282?p=b8e48c9e89eb430d81f9ba0fad42a1dd&pm=c)
-식물에 대한 정보를 얻거나 자신이 키우는 식물을 공유하며 소통할 수 있는 식물 커뮤니티 플랫폼입니다. 
-
-비즈니스에서 사용되는 코드이기 때문에 경험했던 것을 간략하게 설명하겠습니다. 
+식물에 대한 정보를 얻거나 자신이 키우는 식물을 공유하며 소통할 수 있는 식물 커뮤니티 사이트입니다. 
 
 
 ### 목차 
+[0. 프로젝트 설명](#explain)
+
 [1. 트러블 슈팅](#troubleshooting) 
 
 
@@ -15,6 +15,10 @@
 
 
 [4. 완성된 기능 및 이미지](#image)
+
+# explain
+> 노션 [프로젝트 설명](https://www.notion.so/Gardener-s-Club-b8e48c9e89eb430d81f9ba0fad42a1dd)
+
 
 
 # troubleshooting
