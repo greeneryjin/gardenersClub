@@ -271,6 +271,16 @@ private Page<PlantDicSimpleDto> searchPage(PlantDicSearchCondition condition, Pa
 ```
 <div align="center"> <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/39b3c60e-c393-4f81-b86c-1819a91cc559"> </div>
 
+1. Pull Request의 요청 및 머지는 Github을 활용해 이뤄집니다.
+2. Pull Request 이벤트가 발생하면 Git actions 실행되고 빌드를 시작합니다.
+3. Github Actions는 프로젝트 파일을 압축하고 AWS S3로 전송합니다. 
+4. CodeDeploy에게 배포를 요청합니다.
+
+**파트 별 파이프라인** 
+
+백엔드: git action → s3 → codeDeploy → ec2 → docker → spring 빌드
+
+프론트엔드 : git action → s3 → codeDeploy → ec2 → docker → react 빌드
 * * *
 
 
