@@ -254,8 +254,8 @@ private Page<PlantDicSimpleDto> searchPage(PlantDicSearchCondition condition, Pa
 
 서버 구성
   * 도메인(개발/운영) 기준으로 구성(현재 서비스 종료)
-    + www.gardenersclub.co.kr
-    + dev.gardenersclub.co.kr
+    + www.gardenersclub.co.kr - 클라이언트
+    + dev.gardenersclub.co.kr - 개발자
    
 <div align="center"> 
    <img src="https://github.com/greeneryjin/gardenersClub/assets/87289562/0a5ae9b6-e312-4ef7-80ce-a66c688c2a25" width="48%">
